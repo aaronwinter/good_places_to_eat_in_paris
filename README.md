@@ -1,7 +1,7 @@
 good_places_to_eat_in_paris
 ===========================
 
-![Image of Cafe Louis-Philippe](http://rely.io/github/good_places_to_eat_in_paris/lp.jpg)
+![Image of Cafe Louis-Philippe](http://rely.io/lp.jpg)
 
 
 * La Closerie des Lilas (St Germain des Près)
