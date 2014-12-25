@@ -8,6 +8,9 @@ good_places_to_eat_in_paris
 
 *Tartares de Boeuf finement coupé*
 
+* Boulangerie de Gontrand Cherrier *
+*Go there early because there is nothing left after 9:00am*
+
 * Le Café Louis-Philippe (Hotel de Ville)
 
 *Entrecôte de boeuf grillée accompagné d'haricots verts à l'ail*
