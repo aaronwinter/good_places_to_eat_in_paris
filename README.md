@@ -31,3 +31,5 @@ good_places_to_eat_in_paris
 * Chez Georges
 
 *Pieds de Veaux marmiton*
+
+* La maison de la Truffe
