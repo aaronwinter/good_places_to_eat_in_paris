@@ -35,3 +35,5 @@ good_places_to_eat_in_paris
 * La maison de la Truffe
 
 * Le Touring
+
+* Ralph Lauren (Boulevard St Germain des Pres)
